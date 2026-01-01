@@ -1,5 +1,5 @@
-#ifndef MYFILE_H
-#define MYFILE_H
+#ifndef NONSTDIO_H
+#define NONSTDIO_H
 
 extern int a;
 extern int b;
